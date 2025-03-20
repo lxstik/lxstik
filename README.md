@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Yehor Fal </b>
+<h1 align="center"><img src="https://d11a6trkgmumsb.cloudfront.net/original/3X/6/5/65137061474887dfa0f183f2bc118a3e52fc353e.gif" width="50"><b>Hi , I'm Yehor Fal </b><img src="https://d11a6trkgmumsb.cloudfront.net/original/3X/6/5/65137061474887dfa0f183f2bc118a3e52fc353e.gif" width="50"></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
@@ -7,8 +7,10 @@
 </p>
 
 <br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <br>
 <br>
 
@@ -89,22 +91,14 @@
 - **Extras**:
 
     ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
     ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
     ![SQLite](https://img.shields.io/badge/SQLite-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-    ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
     ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 </p>
 
-
-
 <br>
 <br>
-
-
-
-
 
 
 
@@ -117,18 +111,60 @@
 <br>
 
 <div align="center">
-
-<a href="https://github.com/lxstik/">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lxstik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="GitHub Stats"/>
-</a>
-<br>
-<a href="https://github.com/lxstik/">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=lxstik&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="Top Languages"/>
-</a>
-
+  <a href="https://github.com/lxstik/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lxstik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="GitHub Stats"/>
+  </a>
+  <br>
+    <a href="https://github.com/lxstik/">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lxstik&theme=dark&border_radius=5&fire=DD0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&background=0,000000,130F40" width="450" alt="GitHub Streak"/>
+  </a>
+  <br>
+  <a href="https://github.com/lxstik/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=lxstik&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="Top Languages"/>
+  </a>
+  <br>
 </div>
 
 
+
+<br>
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+<br>
+
+
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><b> Let's Connect..!</b>
+<br>
+
+<div align='left'>
+<ul>
+<li>
+<a href="https://www.linkedin.com/in/yehor-fal/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  yehor--fal-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+
+<br>
+
+<li>
+<a href="mailto:egorrfal32@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  egorrfal32@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+    
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <br>
 <br>
+
+<div align='center'>
+
+

@@ -23,7 +23,7 @@
 <br>
 
 
-## **About me**
+## <img src="./pato.gif" width="40"> **About me**
 
 <br>
 

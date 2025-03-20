@@ -4,8 +4,9 @@
   <img src="https://d11a6trkgmumsb.cloudfront.net/original/3X/6/5/65137061474887dfa0f183f2bc118a3e52fc353e.gif" width="50">
 </h1> 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="GIF">
 </p>
+
 
 <br>
 <br>
